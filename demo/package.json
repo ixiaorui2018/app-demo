@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "uniapp demo by ixiaorui2018!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ixiaorui2018",
+  "license": "MIT",
+  "dependencies": {
+    "uview-ui": "^1.8.2"
+  }
+}

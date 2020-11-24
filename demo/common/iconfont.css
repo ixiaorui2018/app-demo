@@ -1,0 +1,32 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_2220622_ab779xtpy5b.eot?t=1606035300126'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2220622_ab779xtpy5b.eot?t=1606035300126#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANwAAsAAAAAB6wAAAMjAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqCSIIeATYCJAMUCwwABCAFhG0HVBuuBhHVmwHI/pC8KW2n1AupMCyhTT2Bg1lzMhhneWALi/A1LV/KO1cfqqRnIoj2ezZ7d181Acm1iVY8myYRS5AaIRISIVkUzbR3tNbmMeu0iaSzxlfE9GRmb09+9b2RConQKJHSmRhng5qVViFFq67PdavC9YUO+FP6+/hE4O5+jyqsF6UKqQ+VnuyDqVWoTbEJmU1pQgcbcGQltvMAPtH9oKGaq0lhY4EFwMIx9Smes9tdMsKjAU8HPlC3RZH9mqAX4w/TSxqoi9sJtC2yWuzdd7oATYXbLxBXZDYOaFYcisLCTaHeMbWId5jXTG/oD2+Tx8dvG4MgqWXu0IPnTCnAzm/+FPz46zVCgLmdDmwWGatRiEudhjNyFlgta5vdiu1oakp8821e/yuIGiouTPf+8AhJVog6N7ULdqJg4ZuATPBtgsQfkPnDeimpNdDOQkdxDWMX/2pIQnT7/Tkhb78LL431uvZP/vdOk2GLYkwdTaJylqA7Pe6597JbUCXXU2v9qk/I9/T+9cz/fDYDrtaOW0sna917b0bPcvmRx/Fu/23hPuHaxxXBXlhbTY7hU2Md1/87cbPcDP5/69tPw3Kw9senIq6z9NQbrP733zn2kLD+3uxb4jaoyF/8Dqqr9VqCqvzNl6AyEV38me8YX9NOFOXv0moBn35rAe0VBZYzXy9zMvM/MCeWFYvtKmtFZwYMbapZsIEvoe2pef8Rxr5uI5pNTiU0zQpIGhZC1rQYWbCroaZjM9Q17YC2VQ7M7pi4KovSwkovAISh95D0fYBs6COyYL9AzdxfqBsGDG3HA7tkx9LwcmXHUuqpwGyMMlc99tV+JU2/JtFvUltmJ7h7sk66MQ6ieviAemS3GOEGIvGeka1qcR/sRk2jUFtVUe6D0nvdDUPuulGQqxZWADuWUk8FZmOUuepxVNuvNO5/TaLfpHYgq6G8J+tk4xgH0QTkgaA3KetVDnEDkXjPyFa1uA901HgBhbq7U0W5D8oFPt0NUTWeKgiOF7UPkM7ycFdU4EizZc9hIaE47YnFSXovvp5YdWVFOpZxkuovj2SayQEAAA==') format('woff2'),
+  url('//at.alicdn.com/t/font_2220622_ab779xtpy5b.woff?t=1606035300126') format('woff'),
+  url('//at.alicdn.com/t/font_2220622_ab779xtpy5b.ttf?t=1606035300126') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_2220622_ab779xtpy5b.svg?t=1606035300126#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bofang:before {
+  content: "\e600";
+}
+
+.icon-zanting:before {
+  content: "\e613";
+}
+
+.icon-shangyishou:before {
+  content: "\ec02";
+}
+
+.icon-xiayishou:before {
+  content: "\ec03";
+}
